@@ -1,4 +1,6 @@
 1. python3
 2. anaconda3
 3. jupyter
-4. jupyter vim
+4. nbextensions : jupyter vim
+5. font : py3, matplotplt
+6. nbextensions : Hinterland
